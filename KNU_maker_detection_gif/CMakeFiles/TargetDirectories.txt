@@ -1,0 +1,3 @@
+/home/sunik/coding/KnuMarkerViewer/CMakeFiles/rebuild_cache.dir
+/home/sunik/coding/KnuMarkerViewer/CMakeFiles/viewer.dir
+/home/sunik/coding/KnuMarkerViewer/CMakeFiles/edit_cache.dir

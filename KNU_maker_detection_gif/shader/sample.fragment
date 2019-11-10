@@ -1,0 +1,15 @@
+#version 130
+
+in	vec2 UV;
+
+// Output data
+out vec3 color;
+
+uniform sampler2D textureSampler;
+
+void main() {
+
+	// Output color = red 
+	//color = vec3(1,0,0);
+	color = texture(textureSampler, UV).rgb;
+}
